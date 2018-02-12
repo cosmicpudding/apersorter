@@ -1,2 +1,2 @@
-# datasorter
+# APERsorter
 Sort APERTIF data sets
